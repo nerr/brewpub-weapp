@@ -13,8 +13,8 @@
   text-align: center;
 }
 .index-logo {
-  width: 100rpx;
-  height: 100rpx;
+  width: 237rpx;
+  height: 83rpx;
 }
 .index-desc {
   margin-top: 20rpx;
@@ -28,4 +28,8 @@
   bottom: 120rpx;
   color: #a9a9a9;
   text-align: center;
+}
+
+.content {
+padding: 30rpx;
 }
