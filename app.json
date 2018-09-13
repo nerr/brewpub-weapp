@@ -6,7 +6,7 @@
     "backgroundTextStyle": "dark",
     "backgroundColor": "#efefef",
     "navigationBarBackgroundColor": "#ffffff",
-    "navigationBarTitleText": "brewpub-weapp",
+    "navigationBarTitleText": "乐啤酒社",
     "navigationBarTextStyle": "black"
   },
   "networkTimeout": {
