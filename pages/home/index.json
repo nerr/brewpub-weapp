@@ -4,6 +4,7 @@
         "layout-foot": "../../common/layout/foot",
         "wxc-loadmore": "../../packages/@minui/wxc-loadmore/dist/index",
         "wxc-price": "../../packages/@minui/wxc-price/dist/index",
-        "wxc-panel": "../../packages/@minui/wxc-panel/dist/index"
+        "wxc-panel": "../../packages/@minui/wxc-panel/dist/index",
+        "wxc-label": "../../packages/@minui/wxc-label/dist/index"
     }
 }
