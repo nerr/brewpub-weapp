@@ -1,7 +1,8 @@
 {
-  "usingComponents": {
-    "layout-head": "../../common/layout/head",
-    "layout-foot": "../../common/layout/foot",
-    "wxc-loadmore": "../../packages/@minui/wxc-loadmore/dist/index"
-  }
+    "usingComponents": {
+        "layout-head": "../../common/layout/head",
+        "layout-foot": "../../common/layout/foot",
+        "wxc-loadmore": "../../packages/@minui/wxc-loadmore/dist/index",
+        "wxc-price": "../../packages/@minui/wxc-price/dist/index"
+    }
 }
