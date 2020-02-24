@@ -1,0 +1,55 @@
+<!--pages/home/detail.wxml-->
+<view>
+    <!-- wxp template -->
+    <view>
+        <view class="index-hd">
+            <image class="index-img" mode="widthFix" src="cloud://brewpub-weapp-db156c.6272-brewpub-weapp-db156c/beer_photo/IMG_3402.JPG"></image>
+        </view>
+
+        <view class="index-desc">
+            <view class="flex-wrp" style="flex-direction:row;">
+                <view>
+                    <image mode="widthFix" class="desc-logo" src="cloud://brewpub-weapp-db156c.6272-brewpub-weapp-db156c/brewery_logo/PilsnerUrquell.png"></image>
+                </view>
+
+                <view>
+                    <view class="desc-text">
+                        <view>
+                            <view class="name_cn">博世纳 乌奎尔皮尔森</view>
+                            <view class="name_en">Pilsner Urquell</view>
+                            <view class="origin"></view>
+                            <view class="origin">产地：捷克</view>
+                        </view>
+                    </view>
+                </view>
+            </view>
+
+            <view class="divLine"></view>
+
+            <view class="intro">
+                <text class="title1">简介</text>
+                <view>
+                    <text>1842年，捷克皮尔森市的市民啤酒厂使用生产出世界上第一款金黄色清澈的拉格啤酒，后以城市之名命名皮尔森，从此开创了一个啤酒种类。如今的工业啤酒及各种皮尔森都是在“皮尔森起源”的基础上更好或更坏的演变而来。乌奎尔比尔森被许多人称作了比尔森啤酒的鼻祖，许多皮尔森厂商都将这款啤酒作为味道的参照。他们一直在沿用1842年开发的配方。</text>
+                </view>
+                <text class="title1">风格</text>
+                <view>
+                    <text>3B.捷克优质淡色拉格\r
+                    Czech Premium Pale Lager 
+                    </text>
+                </view>
+                <text class="title1">数据</text>
+                <view>
+                    <text>酒精度：4.4% abv \r
+                    苦度：IBU35 
+                    </text>
+                </view>
+                <text class="title1">价格</text>
+                <view>
+                    <text>￥55/杯 500ml \r
+                    ￥48/杯 300ml
+                    </text>
+                </view>
+            </view>
+        </view>
+    </view>
+</view>

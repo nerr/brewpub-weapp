@@ -1,0 +1,84 @@
+/* pages/home/detail.wxss */
+.index-hd {
+  padding: 30rpx;
+  text-align: center;
+}
+.index-bd {
+  padding: 20rpx 30rpx;
+  background-color:#fff;
+  color: #333;
+  text-align: center;
+}
+.index-ft {
+  padding-bottom: 20rpx;
+  text-align: center;
+}
+.index-img {
+  width: 100%;
+}
+.index-desc {
+    /* margin-top: 0rpx; */
+    margin: -30rpx 30rpx 0rpx 30rpx;
+    color: #888888;
+    font-size: 28rpx;
+    display: block;
+    background: #fff;
+    padding:30rpx;
+}
+
+.provider {
+  position: fixed;
+  width: 100%;
+  bottom: 120rpx;
+  color: #a9a9a9;
+  text-align: center;
+}
+
+.content {
+    padding: 30rpx;
+}
+
+.desc-logo {
+    width: 220rpx;
+    padding: 20rpx;
+    text-align: center;
+}
+
+
+
+.flex-wrp {
+    display: flex;
+}
+
+.name_cn, .name_en, .origin {
+    color: #333;
+    padding: 6rpx;
+}
+
+.name_cn {
+    font-size: 32rpx;
+    font-weight: bold;
+}
+
+.name_en, .origin {
+    font-size: 30rpx;
+}
+
+.intro {
+    padding: 10rpx;
+}
+
+
+/*分割线样式*/
+.divLine{
+ background: #E0E3DA;
+ width: 100%;
+ height: 3rpx;
+}
+
+.title1 {
+    font-weight: bold;
+    color: #333;
+    font-size: 32rpx;
+    line-height: 70rpx;
+}

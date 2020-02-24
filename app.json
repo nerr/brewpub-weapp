@@ -1,15 +1,19 @@
 {
-  "pages": [
-    "pages/home/index"
-  ],
-  "window": {
-    "backgroundTextStyle": "dark",
-    "backgroundColor": "#efefef",
-    "navigationBarBackgroundColor": "#ffffff",
-    "navigationBarTitleText": "乐啤酒社",
-    "navigationBarTextStyle": "black"
-  },
-  "networkTimeout": {
-    "request": 10000
-  }
+    "pages": [
+        "pages/home/index",
+        "pages/home/detail"
+    ],
+    "module": [
+        "pages/home/index.js"
+    ],
+    "window": {
+        "backgroundTextStyle": "dark",
+        "backgroundColor": "#efefef",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTitleText": "乐啤酒社",
+        "navigationBarTextStyle": "black"
+    },
+    "networkTimeout": {
+        "request": 10000
+    }
 }

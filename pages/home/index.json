@@ -1,10 +1,13 @@
 {
+    "navigationBarBackgroundColor": "#F8F8F8",
     "usingComponents": {
         "layout-head": "../../common/layout/head",
         "layout-foot": "../../common/layout/foot",
         "wxc-loadmore": "../../packages/@minui/wxc-loadmore/dist/index",
         "wxc-price": "../../packages/@minui/wxc-price/dist/index",
         "wxc-panel": "../../packages/@minui/wxc-panel/dist/index",
-        "wxc-label": "../../packages/@minui/wxc-label/dist/index"
-    }
+        "wxc-label": "../../packages/@minui/wxc-label/dist/index",
+        "wxc-flex": "../../packages/@minui/wxc-flex/dist/index",
+        "wxc-elip": "../../packages/@minui/wxc-elip/dist/index"
+    } 
 }
